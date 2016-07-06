@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import boolean2
 from boolean2 import Model , util
 
-
+#AUTHOR: Advait
 #Initial Async Simulation on 07/01/2016
 
 text = '''
